@@ -7,7 +7,7 @@
 ⚡ Fun fact **Computer was a job title, and the first programmers were women!**
 
 
-[![salma's GitHub stats](https://github-readme-stats.vercel.app/api?username=salmamokhtaar)](https://github.com/anuraghazra/github-readme-stats)
+[![salma's GitHub stats](https://github-readme-stats.vercel.app/api?username=salmamokhtaar)](https://github.com/salmamokhtaar/github-readme-stats)
 
 
 <a href="https://github.com/salmamokhtaar/" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmamokhtaar&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>

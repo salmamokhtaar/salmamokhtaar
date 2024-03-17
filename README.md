@@ -7,7 +7,7 @@
 📫 How to reach me **salmamuqtaarsiman@gmail.com** <br/>
 ⚡ Fun fact **Computer was a job title, and the first programmers were women!** <br/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=salmamokhtaar&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=salmamokhtaar&label=Profile%20views&color=0e75b6&style=flat" alt="salmamokhtaar" /> </p>
 
 <img align="left" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
@@ -19,7 +19,7 @@
 
 ### Tech Stack
 
-<p align="right">
+<p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>

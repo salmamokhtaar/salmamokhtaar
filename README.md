@@ -7,6 +7,11 @@
 ⚡ Fun fact **Computer was a job title, and the first programmers were women!**
 
 
+
+
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
+
 [![salma's GitHub stats](https://github-readme-stats.vercel.app/api?username=salmamokhtaar)](https://github.com/salmamokhtaar/github-readme-stats)
 
 

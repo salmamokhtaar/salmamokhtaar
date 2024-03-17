@@ -15,7 +15,7 @@
 
 
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="left" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 
 
@@ -23,7 +23,7 @@
 
 
 
-[![salma's GitHub stats](https://github-readme-stats.vercel.app/api?username=salmamokhtaar)](https://github.com/salmamokhtaar/github-readme-stats)
+[![salma's GitHub stats](https://github-readme-stats.vercel.app/api?username=salmamokhtaar)](https://github.com/salmamokhtaar/github-readme-stats) <br/>
 
 
 <a href="https://github.com/salmamokhtaar/" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmamokhtaar&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>

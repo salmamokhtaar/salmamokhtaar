@@ -1,8 +1,7 @@
- ### Hi, I'm Salma! <br/>
+ ### Hi, I'm Salma! 
 
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-<br/>
+
 
 
 
@@ -12,7 +11,11 @@
 🎨 Making Projects about MernStack Development, tech, and productivity on [Github][https://github.com/salmamokhtaar/]<br/>
 🌷 Check  my [Portifolio][https://portifolio-last.vercel.app/]<br/>
 📫 How to reach me **salmamuqtaarsiman@gmail.com** <br/>
-⚡ Fun fact **Computer was a job title, and the first programmers were women!**
+⚡ Fun fact **Computer was a job title, and the first programmers were women!** <br/>
+
+
+
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 
 

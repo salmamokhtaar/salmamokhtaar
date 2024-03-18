@@ -3,7 +3,9 @@
 👩🏻‍💻 FullStack Developer sharing about my journey and learnings in tech<br/>
 👩🏻‍🎓 Studied [InformationTechnology][https://www.facebook.com/Jamhuriya] at the University of Jamhuriya, Somalia<br/>
 🎨 Making Projects about MernStack Development, tech, and productivity on [Github][https://github.com/salmamokhtaar/]<br/>
-🌷 Check  my [Portifolio][https://portifolio-last.vercel.app/]<br/>
+🌷 Check  my [PersonalPortifolio][https://portifolio-last.vercel.app/]<br/>
+🌷 Check  my [Vercel][https://vercel.com/salmamokhtaars-projects]<br/>
+
 📫 How to reach me **salmamuqtaarsiman@gmail.com** <br/>
 ⚡ Fun fact **Computer was a job title, and the first programmers were women!** <br/>
 

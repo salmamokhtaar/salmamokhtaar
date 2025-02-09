@@ -1,4 +1,4 @@
- ### Hi, I'm Salma! 
+ ### HEY THere, I'm Salma!
 
 👩🏻‍💻 FullStack Developer sharing about my journey and learnings in tech<br/>
 👩🏻‍🎓 Studied Computer Application at Jamhuriya University, Somalia<br/>

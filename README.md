@@ -1,8 +1,8 @@
  ### Hi, I'm Salma! 
 
 👩🏻‍💻 FullStack Developer sharing about my journey and learnings in tech<br/>
-👩🏻‍🎓 Studied Computer Applucation [https://www.facebook.com/Jamhuriya] at the University of Jamhuriya, Somalia<br/>
-🎨 Making Projects about MernStack Development, tech, and productivity on [Github][https://github.com/salmamokhtaar/]<br/>
+👩🏻‍🎓 Studied Computer Application at Jamhuriya University, Somalia<br/>
+🎨 Making Projects about Fullstack Developments, tech, and productivity on [Github][https://github.com/salmamokhtaar/]<br/>
 🌷 Check  my Personal Portifolio [https://portifolio-last.vercel.app/]<br/>
 🎨 Check  my Last Portifolio [https://salmadhegacadde.vercel.app/]<br/>
 📫 How to reach me **salmam.mohyadiin@gmail.com** <br/>

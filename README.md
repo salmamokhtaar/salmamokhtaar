@@ -1,11 +1,11 @@
  ### Hi, I'm Salma! 
 
 👩🏻‍💻 FullStack Developer sharing about my journey and learnings in tech<br/>
-👩🏻‍🎓 Studied [InformationTechnology][https://www.facebook.com/Jamhuriya] at the University of Jamhuriya, Somalia<br/>
+👩🏻‍🎓 Studied Computer Applucation [https://www.facebook.com/Jamhuriya] at the University of Jamhuriya, Somalia<br/>
 🎨 Making Projects about MernStack Development, tech, and productivity on [Github][https://github.com/salmamokhtaar/]<br/>
-🌷 Check  my [PersonalPortifolio][https://portifolio-last.vercel.app/]<br/>
-🎨 Check  my [Vercel][https://vercel.com/salmamokhtaars-projects]<br/>
-📫 How to reach me **salmamuqtaarsiman@gmail.com** <br/>
+🌷 Check  my Personal Portifolio [https://portifolio-last.vercel.app/]<br/>
+🎨 Check  my Last Portifolio [https://salmadhegacadde.vercel.app/]<br/>
+📫 How to reach me **salmam.mohyadiin@gmail.com** <br/>
 ⚡ Fun fact **Computer was a job title, and the first programmers were women!** <br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salmamokhtaar&label=Profile%20views&color=0e75b6&style=flat" alt="salmamokhtaar" /> </p>

@@ -1,4 +1,4 @@
- ### Hey there, I'm Salma!
+ ### Hello, I'm Salma, a FullStack Developer passionate about building innovative and efficient tech solutions.!
 
 👩🏻‍💻 FullStack Developer sharing about my journey and learnings in tech<br/>
 👩🏻‍🎓 Studied Computer Application at Jamhuriya University, Somalia<br/>

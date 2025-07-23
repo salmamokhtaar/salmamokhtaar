@@ -1,11 +1,11 @@
-## ✨ Hi, I'm Salma | Software  Developer passionate about tech and innovation!
+## ✨ Hi, I'm Salma | Software Developer passionate about tech and innovation!
 
-👩🏻‍💻 **Full-Stack Developer** sharing my journey and learnings in tech.<br/>
-👩🏻‍🎓 Studied **Computer Applications** at Jamhuriya University, Somalia.<br/>
-🎨 Building projects focused on full-stack development, tech, and productivity on [GitHub](https://github.com/salmamokhtaar/).<br/>
-🖥️ Check out my latest portfolio: [salmadevs.vercel.app](https://salmadevs.vercel.app/)<br/>
-📫 **Reach me at:** salmadhegacadde@gmail.com<br/>
-⚡ **Fun fact:** “Computer” was once a job title, and the first programmers were women!
+👩🏻‍💻 Software Developer sharing my journey and learnings in tech  
+🌱 Founder of **Gacalo Tech**  a community empowering Somali girls to explore careers in tech  
+🌍 Building projects focused on full-stack development, learning, and digital impact  
+🌐 Check out my portfolio:    [salmadhegacadde.com](https://www.salmadhegacadde.com)  
+📫 Reach me at: **salmadhegacadde@gmail.com**  
+⚡ Fun fact: “Computer” was once a job title — and the first programmers were women!
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=salmamokhtaar&label=Profile%20views&color=0e75b6&style=flat" alt="salmamokhtaar" />
@@ -67,9 +67,6 @@
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL" />
   </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="36" height="36" alt="MySQL" />
-  </a>
   <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" />
   </a>
@@ -110,4 +107,3 @@
 [![Total Contributions](https://github-readme-stats.vercel.app/api?username=salmamokhtaar&show_icons=true&theme=default)](https://github.com/salmamokhtaar)
 
 ---
-

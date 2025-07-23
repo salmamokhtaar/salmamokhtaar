@@ -1,4 +1,4 @@
-## ✨ Hi, I'm Salma | Full-Stack Developer passionate about tech and innovation!
+## ✨ Hi, I'm Salma | Software  Developer passionate about tech and innovation!
 
 👩🏻‍💻 **Full-Stack Developer** sharing my journey and learnings in tech.<br/>
 👩🏻‍🎓 Studied **Computer Applications** at Jamhuriya University, Somalia.<br/>

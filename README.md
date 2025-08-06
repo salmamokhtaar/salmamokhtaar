@@ -1,4 +1,4 @@
-## ✨ Hi, I'm Salma | Software Developer passionate about tech and innovation!
+##  Hi, I'm Salma | Software Developer passionate about tech and innovation!
 
 👩🏻‍💻 Software Developer sharing my journey and learnings in tech  
 🌱 Founder of **Gacalo Tech**  a community empowering Somali girls to explore careers in tech  
